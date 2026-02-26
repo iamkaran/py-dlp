@@ -158,15 +158,3 @@ pip install -U yt-dlp
   * `ffmpeg -version`
 
 ---
-
-## 📜 License
-
-Unspecified. Add a LICENSE file if you want other humans to know what they’re allowed to do.
-
----
-
-### Q1: Do you want the README to be Linux-only (cleaner) or keep Windows steps too?
-
-### Q2: Do you want an “Examples” section showing real prompts and outputs?
-
-### Q3: Should I also generate a `pyproject.toml` so installation is one clean `pip install .`?
