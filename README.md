@@ -1,8 +1,8 @@
-# py-dlp 🎧🎥
+# py-dlp
 
 A simple Python CLI tool built on top of **yt-dlp** to download:
-- 🔉 Audio as MP3 (with optional thumbnail + metadata)
-- 🎥 Video as webm or mp4 (with optional resolution limits)
+- Audio as MP3 (with optional thumbnail + metadata)
+- Video as webm or mp4 (with optional resolution limits)
 
 Uses `questionary` for interactive prompts and `rich` for a prettier terminal experience.
 
